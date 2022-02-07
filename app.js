@@ -1,2 +1,2 @@
-document.getElementById("book-list")
-console.log("book-list")
+ let bookList = document.getElementById("book-list")
+
